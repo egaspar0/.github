@@ -3,7 +3,8 @@
     "extends": [
       "config:best-practices"
     ],  
-    "branchPrefix": "chores/DEVX-420-",
+    "branchPrefix": "chores/DEVX-420-",    
+    "onboardingBranch": "chores/DEVX-420-renovate-onboarding",
     "labels": [
       "dependencies"
     ],
